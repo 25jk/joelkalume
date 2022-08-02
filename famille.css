@@ -1,0 +1,22 @@
+.family {
+    background-color: grey;
+}
+.family h2 {
+    overflow: hidden;
+    text-align:center;
+    text-decoration: underline;
+    flex-direction: row;
+    padding-top: 20px;
+    font-style: oblique;
+    font-stretch: semi-condensed;
+}
+.family h3 {
+    text-size-adjust: 30px;
+    text-align: center;
+
+}
+p {
+    text-align: center;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
